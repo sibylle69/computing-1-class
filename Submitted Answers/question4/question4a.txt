@@ -1,0 +1,37 @@
+question4.txt
+
+Fill in the below blank ASCII art version of UML class diagram 
+with the relevant information about the Resistor Class.
+
+You do not need to indicate what is supposed to be private vs public
+as that is not enforced in Python, but do mark whether something is an
+instance or class attribute by putting (i) or (c) before the 
+name.
+
+For example, identify a class attribute as:
+
+(c) class_attribute_name
+
+
+TOTAL POINTS AVAILABLE: 4 
+
+
+Diagram Completeness (4)
+4 points - no errors, everything is correctly included
+3 points - most of the information is included, but not all of it
+2 points - a large amount of the information is wrong or missing
+1 point - an attempt was made, but most information is wrong or missing
+0 points - no attempt made 
+
+
+
+|----------------------|
+| Resistor             |
+|----------------------|
+|(c) resist_colours    |    
+|(c) tol_colours       |
+|----------------------|
+|get_value()           |
+|get_min_value()       |
+|----------------------|
+
